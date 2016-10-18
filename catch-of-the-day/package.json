@@ -5,6 +5,7 @@
   "devDependencies": {
     "autoprefixer-stylus": "0.10.0",
     "concurrently": "3.0.0",
+    "react-router-form": "^2.0.0-rc.0",
     "react-scripts": "0.6.1",
     "stylus": "0.54.5"
   },
