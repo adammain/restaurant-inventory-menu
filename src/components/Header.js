@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+
 
 const Header = (props) => {
   return (
@@ -16,4 +17,8 @@ const Header = (props) => {
   )
 }
 
-export default Header
+Header.propTypes = {
+  tagline: React.PropTypes.string.isRequired
+};
+
+export default Header;
