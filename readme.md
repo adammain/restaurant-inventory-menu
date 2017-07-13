@@ -4,9 +4,9 @@ Practice React app based on Wes Bos React for Beginners course.  Mock seafood re
 ## How to install on computer
 ```
 # Clone this git repo:
-$ git clone git@github.com:amtruenorth/Seafood-Inventory-And-Order-Menu.git
+$ git clone git@github.com:amtruenorth/restaurant-inventory-order-menu.git
 
-$ cd Seafood-Inventory-And-Order-Menu/
+$ cd restaurant-inventory-order-menu/
 ```
 
 ## Requirements
@@ -17,7 +17,7 @@ $ npm install
 ## Usage
 
 1) Confirm requirements (above) are installed ```$ npm install```
-2) Navigate to project directory ```$ cd Seafood-Inventory-And-Order-Menu/```
+2) Navigate to project directory ```$ cd restaurant-inventory-order-menu/```
 
 From project directory:
 ```
