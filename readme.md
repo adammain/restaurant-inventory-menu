@@ -1,5 +1,5 @@
 # Restaurant Inventory and Order Menu - Documentation
-Practice React app based on Wes Bos React for Beginners course.  Mock seafood restaurant menu app that track inventory after digital orders are placed.
+Practice seafood restaurant menu app built with JS, React, Firebase, HTML5, and CSS3. Allows user to build a custom menu with titles, descriptions, pictures, and pricing. Updates pricing totals when items are selected. Automatically updates inventory after orders are placed.
 
 ## How to install on computer
 ```
